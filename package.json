@@ -1,5 +1,5 @@
 {
-  "name": "typewriter-effect",
+  "name": "@vvo/typewriter-effect",
   "version": "2.13.1",
   "main": "dist/react.js",
   "keywords": [
